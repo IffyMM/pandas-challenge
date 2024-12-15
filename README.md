@@ -5,8 +5,8 @@ This project will help school board to make strategic decisions regarding future
 
 This project used two datasets in csv format, one is schools_complete.csv file wich includes; in columns Student ID,school_name,type,size,budget. The other dataset is students_complete.csv file which include; in columns Student ID,student_name,gender,grade,school_name,reading_scoreand math_score. For these analysis both datasets imported, merged, and the aggregate data diplayed in to python pandas dataframes.
 
-
 ![alt text](image.png)
+
 
 
 The project is conducted in Jupyter notebook to showcase, and communicate the analysis report the following link is created: Jupyter Notebook Viewer
@@ -31,6 +31,5 @@ Huang High School is one of the bottom performing school the same as Bailey High
 
  The findings from the data showed that in all metrics (average, percent, and overall) of reading and math scores Charter schools have a greater score than District schools
 
- ![alt text](image-4.png)
 
- 
+![alt text](image-4.png)
